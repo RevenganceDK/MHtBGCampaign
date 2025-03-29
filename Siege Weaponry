@@ -1,0 +1,45 @@
+# Siege Fortifications
+
+These can be placed during board set up, by players, or whenever really.
+
+During setup, shuffle Siege Fortification cards into the Time Deck. These are special cards that indicate when a Siege Fortification is ready for use, and do not count towards the Time Card limit. (GM Note: Siege Fortifications can be placed on the board during setup and be immediately ready).
+Siege Fortifications are ready when their corresponding time card is drawn. Immediately discard their time card, and draw and play the next “standard” time card. (Note: Siege cards can be used in lieu of tokens to indicate their trigger locations).
+
+Optional: If a monster attack hits a siege fortification, roll a d6. On an even number, nothing happens. On an odd number, the fortification is destroyed unless it is specified otherwise.
+
+### Quick Reference
+
+|  **Fortification** 	|     **Range**     	|                                **Damage**                                	|
+|:------------------:	|:-----------------:	|:------------------------------------------------------------------------:	|
+|    **Ballista**    	|      4 nodes      	|                         2 **[ELEMENTAL DAMAGE]**                         	|
+|     **Cannon**     	|      4 nodes      	|      1 **[ELEMENTAL DAMAGE]** (ign. armor) + 1 Break per cannonball      	|
+|   **Dragonator**   	| All nodes in 2xlines| 1 **[ELEMENTAL DAMAGE]** (ign. armor) + stun + move 0 + 2 extra hunters  	|
+|  **Boulder Trap**  	|    Whole board    	|                          5 damage, ignore armor                          	|
+| **Reinforcements** 	|    2 from token   	|                          2 damage, ignore armor                          	|
+
+## Ballista
+Place a token on a node to indicate a ballista.
+When a Hunter is on a ballista, they may operate the ballista by playing an attack card from their hand, face down onto the stamina board, then drawing 2 [ELEMENTAL DAMAGE] cards as if resolving an attack. Ballista shots have a range of 4, cannot be modified with buffs, and do not ignore armor.
+
+## Cannon
+Place a token on a node to indicate a cannon. Cannons must be loaded before firing.
+
+When a Hunter is on a cannon, they may play an attack card from their hand face down onto your stamina board to load a single cannonball into the cannon, up to 5 times. The cannon does not need to be loaded “all at once” and can be loaded by multiple hunters over multiple turns.
+Once the cannon is loaded with at least one cannonball, a hunter may then spend a turn to fire the cannon, firing all loaded balls at once, drawing 1 [ELEMENTAL DAMAGE] and inflicting one break per cannonball fired. Cannonballs have a range of 4, cannot be modified with buffs, and also ignore armor. Break is applied as if resolving a standard attack.
+
+GM Note: use a die or similar to track loaded cannonballs.
+
+## Dragonator
+During setup, choose an edge of the board for the Dragonator to fire from, and decide which 2 adjacent lines of nodes it will hit. Place a token on a node along the same edge to indicate the Dragonator lever.
+
+Play an attack card from your hand face down to your stamina board to ready the Dragonator. The Dragonator will be fired on your next turn, and you cannot perform any additional actions when it fires. Draw 1 [ELEMENTAL DAMAGE] when firing, and apply this damage ignoring armor. The Dragonator also inflicts stun, sets a monster's move value for its next behaviour to 0, and adds 2 hunters to the hunter turn.
+
+The Dragonator fires from one edge of the board to the other, with a width of 2 (ie: 2 adjacent lines across the whole board). The Dragonator can only be fired ONCE per hunt, and cannot be destroyed by monsters.
+
+## Boulder Trap
+During setup, find the 2 Suspended Boulder Time Cards and place them aside.
+
+Place a token on a node to indicate a boulder trap lever. When a player ends their turn on this node, they play the Suspended Boulder Time Card instead of a random Time Card. Play the card as normal, but ignore any Hunter damage suffered - these boulders are not a surprise and the Hunter can automatically dodge a failed boulder.
+
+## Reinforcements
+Take three extra track tokens from the supply and place them face down on the game board within 2 nodes of your hunter. These tokens are hunters with a threat value of 0. They have 1 health and cannot suffer any status ailments. If they suffer any damage, remove them from the game board. At the end of each of the monster’s turns, the monster loses 2 health for each track token that’s within 2 nodes of it.
